@@ -5,7 +5,7 @@ trilha Explorer
 Projeto construido do evento Next level week da Rocketseat
 
 [Clique aqui para acessar](http:// rita-magalhaes.github.io/nlw-esports-explorer)
-## Tecnologias
+## 🤖 Tecnologias
 
 -HTML
 -CSS
